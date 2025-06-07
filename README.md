@@ -18,4 +18,4 @@ Deployed to GitHub Pages
 
 This project is a pure static website, no need to install any build tools. Open directly, Double-click index.html in the file manager, or File → Open the file in the browser.
 
-Link
+**Link**
