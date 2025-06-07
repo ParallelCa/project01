@@ -1,9 +1,5 @@
-const menuButton = document.querySelector('.menu-button');
 const navMenu = document.querySelector('.navbar ul');
 
-menuButton.addEventListener('click', () => {
-  navMenu.classList.toggle('active');
-});
 
 const links = document.querySelectorAll('.navbar a');
 links.forEach(link => {
