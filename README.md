@@ -5,7 +5,7 @@ Mingxuan Deng
 
 This is a static landing page implemented with pure HTML/CSS/JavaScript, with the following core features:
 
-Top navigation bar (including anchor jump and mobile hamburger menu)
+Top navigation bar (including anchor jump)
 
 Responsive layout, support for multiple screen sizes (using Flexbox and CSS Grid)
 
